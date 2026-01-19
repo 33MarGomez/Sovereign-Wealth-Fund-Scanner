@@ -1,0 +1,5 @@
+{
+  "name": "Sovereign Wealth Scanner",
+  "description": "An intelligent interface that analyzes and visualizes Sovereign Wealth Funds (SWFs) by country using real-time data retrieval.",
+  "requestFramePermissions": []
+}
